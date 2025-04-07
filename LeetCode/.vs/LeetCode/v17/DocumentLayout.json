@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\LeetCode\\LeetCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|c:\\workspace\\leetcode\\leetcode\\controllers\\no_49_groupanagrams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|solutionrelative:controllers\\no_49_groupanagrams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "No_49_GroupAnagrams.cs",
+              "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_49_GroupAnagrams.cs",
+              "RelativeDocumentMoniker": "Controllers\\No_49_GroupAnagrams.cs",
+              "ToolTip": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_49_GroupAnagrams.cs",
+              "RelativeToolTip": "Controllers\\No_49_GroupAnagrams.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:17:58.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
