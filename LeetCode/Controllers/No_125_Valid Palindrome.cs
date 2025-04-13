@@ -24,6 +24,36 @@ namespace LeetCode.Controllers
 
             return str == reversed;
         }
+
+        public bool IsPalindrome2(string s)
+        {
+            var strBox = new StringBuilder();
+            //空白不是英數字 排除
+            foreach (var i in s)
+            {
+                if (char.IsLetterOrDigit(i))
+                {
+                    strBox.Append(char.ToLower(i));
+                }
+            }
+
+            int left = 0;
+            int right = strBox.Length - 1;
+
+            for(int i=0; i< strBox.Length; i++)
+            {
+                string leftChar = strBox[left].ToString();
+                string rightChar = strBox[right].ToString();
+
+                if(leftChar != rightChar)
+                {
+                    return false;
+                }
+                left++;
+                right--;
+            }
+            return true;
+        }
     }
 }
 
