@@ -28,7 +28,6 @@ namespace LeetCode.Controllers
         public bool IsPalindrome2(string s)
         {
             var strBox = new StringBuilder();
-            //空白不是英數字 排除
             foreach (var i in s)
             {
                 if (char.IsLetterOrDigit(i))
@@ -42,10 +41,7 @@ namespace LeetCode.Controllers
 
             for(int i=0; i< strBox.Length; i++)
             {
-                string leftChar = strBox[left].ToString();
-                string rightChar = strBox[right].ToString();
-
-                if(leftChar != rightChar)
+                if(strBox[left] != strBox[right])
                 {
                     return false;
                 }
