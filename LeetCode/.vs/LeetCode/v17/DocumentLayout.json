@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Workspace\\LeetCode\\LeetCode\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|c:\\workspace\\leetcode\\leetcode\\controllers\\no_125_valid palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|solutionrelative:controllers\\no_125_valid palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|c:\\workspace\\leetcode\\leetcode\\controllers\\no_49_groupanagrams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|solutionrelative:controllers\\no_49_groupanagrams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "No_125_Valid Palindrome.cs",
+              "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_125_Valid Palindrome.cs",
+              "RelativeDocumentMoniker": "Controllers\\No_125_Valid Palindrome.cs",
+              "ToolTip": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_125_Valid Palindrome.cs",
+              "RelativeToolTip": "Controllers\\No_125_Valid Palindrome.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T12:05:49.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "No_49_GroupAnagrams.cs",
               "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_49_GroupAnagrams.cs",
               "RelativeDocumentMoniker": "Controllers\\No_49_GroupAnagrams.cs",
               "ToolTip": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_49_GroupAnagrams.cs",
               "RelativeToolTip": "Controllers\\No_49_GroupAnagrams.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA9AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T12:17:58.828Z",
               "EditorCaption": ""
