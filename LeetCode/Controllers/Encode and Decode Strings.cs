@@ -26,7 +26,7 @@ namespace LeetCode.Controllers
                 int j = i;
                 // 找到 # 前面的數字(長度  等於#的話代表分隔  因為每次的開始 必定為數字加一個# 數字可能為兩到三位數
 
-                //取得數字
+                //1.取數字:
                 while (s[j] != '#')
                 {
                     j++;
@@ -34,13 +34,12 @@ namespace LeetCode.Controllers
                 }
 
                 
-
-                //0 ~ (1-0) = 4
                 // - i = J跟i差多少位子 決定哪幾位為這次的數字
-                int length = int.Parse(s.Substring(i, j - i)); //length = int.Parse("4");
+                int length = int.Parse(s.Substring(i, j - i));//0 ~ (1-0) = 4 ==> length = int.Parse("4");
 
+
+                //2.取字串:
                 //從跳過#的下一個位子開始取字。 所以 j = 數字最後一位的位子 , + 1 會從#後面開始算分割字串
-
                 //(4)#neet => 從#開始取4 = neet
                 string str = s.Substring(j + 1, length);
                 result.Add(str);
