@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.ComponentModel;
+using System.Text;
 
 namespace LeetCode.Controllers
 {
@@ -20,7 +21,7 @@ namespace LeetCode.Controllers
         {
             List<string> result = new List<string>();
             int i = 0;
-            //[4#neet4#code4#love3#you"]
+            //[100#neet123100#c###ode4#love3#you"]
             while (i < s.Length)
             {
                 int j = i;
@@ -52,3 +53,41 @@ namespace LeetCode.Controllers
         }
     }
 }
+
+//public string Encode(List<string> strs)
+//{
+//    StringBuilder sb = new StringBuilder();
+//    foreach (var str in strs)
+//    {
+//        sb.Append('#').Append(str);
+//    }
+//    return sb.ToString();
+//}
+
+//public List<string> Decode(string s)
+//{
+//    return s.Split('#');
+//}
+//["", "hello", "wor", "ld", "test"] X
+
+//Encode and Decode Strings
+//Solved 
+//Design an algorithm to encode a list of strings to a single string. The encoded string is then decoded back to the original list of strings.
+
+//Please implement encode and decode
+
+//Example 1:
+
+//Input: ["neet","code","love","you"]
+
+//Output: ["neet","code","love","you"]
+//Example 2:
+
+//Input: ["we","say",":","yes"]
+
+//Output: ["we","say",":","yes"]
+//Constraints:
+
+//0 <= strs.length < 100
+//0 <= strs[i].length < 200
+//strs[i] contains only UTF-8 characters.
