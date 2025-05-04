@@ -4,6 +4,39 @@
 
     class Program
     {
+
+        
+        static int[] ProductExceptSelf(int[] nums)
+        {
+            int n = nums.Length;
+            int[] answer = new int[n];
+
+            //nums = [1, 2, 3, 4]
+            //把最左邊填滿 *1 還是一樣 =>> answer[i - 1] 會用到 讓default不為0 避免全部變成0
+            answer[0] = 1;
+            for (int i = 1; i < n; i++)
+            {
+                answer[i] = answer[i - 1] * nums[i - 1];
+            }
+            //[1, 1, 2, 6]
+
+            //nums = [1, 2, 3, 4]
+            //right變化[24 <- 12 <- 4 <- 1]
+            int right = 1;
+            for (int i = n - 1; i >= 0; i--)
+            {
+                answer[i] *= right;
+
+                //保留右邊的相乘結果
+                right *= nums[i];
+            }
+            //[24, 12, 8, 6]
+
+            return answer;
+
+        }
+
+
         public int[] ProductExceptSelfUseForeach(int[] nums)
         {
             int n = nums.Length;
