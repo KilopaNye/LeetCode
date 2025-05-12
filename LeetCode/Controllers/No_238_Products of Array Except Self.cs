@@ -4,9 +4,64 @@
 
     class Program
     {
+        //暴力解
+        public int[] ProductExceptSelfUseForeach(int[] nums)
+        {
+            //nums = [1, 2, 3, 4]
+            int n = nums.Length;
+            int[] answer = new int[n];
 
-        
-        static int[] ProductExceptSelf(int[] nums)
+            for (int i = 0; i < n; i++)
+            {
+                int product = 1;
+                for (int j = 0; j < n; j++)
+                {
+                    if (i != j)//除了自己以外
+                    {
+                        product *= nums[j];
+                    }
+                }
+                answer[i] = product;
+            }
+
+            return answer;
+        }
+        public int[] ProductExceptSelf(int[] nums)
+        {
+            int n = nums.Length;
+            int[] left = new int[n];
+            int[] right = new int[n];
+            int[] answer = new int[n];
+
+
+            //nums = [1, 2, 3, 4]
+
+            //把最左邊填滿 *1
+            left[0] = 1;
+            for (int i = 1; i < n; i++)
+            {
+                left[i] = left[i - 1] * nums[i - 1];
+            }
+            //[1, 1, 2, 6] = 紀錄目前index位置的所有左邊乘積
+
+            right[n - 1] = 1;
+            for (int i = n - 2; i >= 0; i--)
+            {
+                right[i] = right[i + 1] * nums[i + 1];
+            }
+            //right變化[24, 12, 4, 1]  = 紀錄目前index位置的所有右邊乘積
+
+            //跑迴圈相乘
+            for (int i = 0; i < n; i++)
+            {
+                answer[i] = left[i] * right[i];
+            }
+
+            return answer;
+        }
+
+        //優化版O(1)
+        static int[] ProductExceptSelfOneArray(int[] nums)
         {
             int n = nums.Length;
             int[] answer = new int[n];
@@ -18,10 +73,12 @@
             {
                 answer[i] = answer[i - 1] * nums[i - 1];
             }
-            //[1, 1, 2, 6]
 
             //nums = [1, 2, 3, 4]
-            //right變化[24 <- 12 <- 4 <- 1]
+            //[1, 1, 2, 6] = 紀錄目前index位置的所有左邊乘積
+
+            //In-Place
+            //right變化[24 <- 12 <- 4 <- 1]  = 紀錄目前index位置的所有右邊乘積
             int right = 1;
             for (int i = n - 1; i >= 0; i--)
             {
@@ -37,26 +94,7 @@
         }
 
 
-        public int[] ProductExceptSelfUseForeach(int[] nums)
-        {
-            int n = nums.Length;
-            int[] answer = new int[n];
-
-            for (int i = 0; i < n; i++)
-            {
-                int product = 1;
-                for (int j = 0; j < n; j++)
-                {
-                    if (i != j)
-                    {
-                        product *= nums[j];
-                    }
-                }
-                answer[i] = product;
-            }
-
-            return answer;
-        }
+        
     }
 }
 
