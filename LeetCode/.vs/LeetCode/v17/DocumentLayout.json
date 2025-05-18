@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Workspace\\LeetCode\\LeetCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|c:\\workspace\\leetcode\\leetcode\\controllers\\no_238_products of array except self.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|solutionrelative:controllers\\no_238_products of array except self.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|c:\\workspace\\leetcode\\leetcode\\controllers\\no_15_3sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|solutionrelative:controllers\\no_15_3sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|c:\\workspace\\leetcode\\leetcode\\controllers\\no_128_longest consecutive sequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|solutionrelative:controllers\\no_128_longest consecutive sequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|c:\\workspace\\leetcode\\leetcode\\controllers\\no_347_top k frequent elements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|solutionrelative:controllers\\no_347_top k frequent elements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|c:\\workspace\\leetcode\\leetcode\\controllers\\no_238_products of array except self.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|solutionrelative:controllers\\no_238_products of array except self.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|c:\\workspace\\leetcode\\leetcode\\controllers\\encode and decode strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,19 +35,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "No_15_3Sum.cs",
+              "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_15_3Sum.cs",
+              "RelativeDocumentMoniker": "Controllers\\No_15_3Sum.cs",
+              "ToolTip": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_15_3Sum.cs",
+              "RelativeToolTip": "Controllers\\No_15_3Sum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T09:38:29.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "No_128_Longest Consecutive Sequence.cs",
+              "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_128_Longest Consecutive Sequence.cs",
+              "RelativeDocumentMoniker": "Controllers\\No_128_Longest Consecutive Sequence.cs",
+              "ToolTip": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_128_Longest Consecutive Sequence.cs",
+              "RelativeToolTip": "Controllers\\No_128_Longest Consecutive Sequence.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:58:41.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "No_238_Products of Array Except Self.cs",
               "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_238_Products of Array Except Self.cs",
               "RelativeDocumentMoniker": "Controllers\\No_238_Products of Array Except Self.cs",
               "ToolTip": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_238_Products of Array Except Self.cs",
               "RelativeToolTip": "Controllers\\No_238_Products of Array Except Self.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T12:02:51.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T12:02:51.584Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Encode and Decode Strings.cs",
               "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\Encode and Decode Strings.cs",
               "RelativeDocumentMoniker": "Controllers\\Encode and Decode Strings.cs",
@@ -51,16 +84,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "No_347_Top K Frequent Elements.cs",
               "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_347_Top K Frequent Elements.cs",
               "RelativeDocumentMoniker": "Controllers\\No_347_Top K Frequent Elements.cs",
               "ToolTip": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_347_Top K Frequent Elements.cs",
               "RelativeToolTip": "Controllers\\No_347_Top K Frequent Elements.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAAwCwAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T12:04:25.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T12:04:25.331Z"
             }
           ]
         }
