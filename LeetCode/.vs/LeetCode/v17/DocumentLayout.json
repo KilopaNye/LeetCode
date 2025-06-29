@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Workspace\\LeetCode\\LeetCode\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|c:\\workspace\\leetcode\\leetcode\\controllers\\no_424_longest repeating character replacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|solutionrelative:controllers\\no_424_longest repeating character replacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|c:\\workspace\\leetcode\\leetcode\\controllers\\no_3_longest substring without repeating characters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|solutionrelative:controllers\\no_3_longest substring without repeating characters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|c:\\workspace\\leetcode\\leetcode\\controllers\\no_238_products of array except self.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|solutionrelative:controllers\\no_238_products of array except self.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|c:\\workspace\\leetcode\\leetcode\\controllers\\no_347_top k frequent elements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|solutionrelative:controllers\\no_347_top k frequent elements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|c:\\workspace\\leetcode\\leetcode\\controllers\\no_121_best time to buy and sell stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|solutionrelative:controllers\\no_121_best time to buy and sell stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,14 +35,6 @@
       "RelativeMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|solutionrelative:controllers\\no_128_longest consecutive sequence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|c:\\workspace\\leetcode\\leetcode\\controllers\\no_347_top k frequent elements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|solutionrelative:controllers\\no_347_top k frequent elements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|c:\\workspace\\leetcode\\leetcode\\controllers\\no_238_products of array except self.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|solutionrelative:controllers\\no_238_products of array except self.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|c:\\workspace\\leetcode\\leetcode\\controllers\\encode and decode strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|solutionrelative:controllers\\encode and decode strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -38,12 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -51,32 +55,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "No_121_Best Time to Buy and Sell Stock.cs",
-              "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_121_Best Time to Buy and Sell Stock.cs",
-              "RelativeDocumentMoniker": "Controllers\\No_121_Best Time to Buy and Sell Stock.cs",
-              "ToolTip": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_121_Best Time to Buy and Sell Stock.cs",
-              "RelativeToolTip": "Controllers\\No_121_Best Time to Buy and Sell Stock.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAwwCYAAAAAAAAA",
+              "Title": "No_424_Longest Repeating Character Replacement.cs",
+              "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_424_Longest Repeating Character Replacement.cs",
+              "RelativeDocumentMoniker": "Controllers\\No_424_Longest Repeating Character Replacement.cs",
+              "ToolTip": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_424_Longest Repeating Character Replacement.cs",
+              "RelativeToolTip": "Controllers\\No_424_Longest Repeating Character Replacement.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T09:52:19.605Z",
+              "WhenOpened": "2025-06-22T08:44:01.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NO_11_Container With Most Water.cs",
-              "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\NO_11_Container With Most Water.cs",
-              "RelativeDocumentMoniker": "Controllers\\NO_11_Container With Most Water.cs",
-              "ToolTip": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\NO_11_Container With Most Water.cs",
-              "RelativeToolTip": "Controllers\\NO_11_Container With Most Water.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
+              "Title": "No_3_Longest Substring Without Repeating Characters.cs",
+              "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_3_Longest Substring Without Repeating Characters.cs",
+              "RelativeDocumentMoniker": "Controllers\\No_3_Longest Substring Without Repeating Characters.cs",
+              "ToolTip": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_3_Longest Substring Without Repeating Characters.cs",
+              "RelativeToolTip": "Controllers\\No_3_Longest Substring Without Repeating Characters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T04:22:32.806Z",
+              "WhenOpened": "2025-06-15T12:35:56.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "No_121_Best Time to Buy and Sell Stock.cs",
+              "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_121_Best Time to Buy and Sell Stock.cs",
+              "RelativeDocumentMoniker": "Controllers\\No_121_Best Time to Buy and Sell Stock.cs",
+              "ToolTip": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_121_Best Time to Buy and Sell Stock.cs",
+              "RelativeToolTip": "Controllers\\No_121_Best Time to Buy and Sell Stock.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T09:52:19.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "No_15_3Sum.cs",
               "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_15_3Sum.cs",
               "RelativeDocumentMoniker": "Controllers\\No_15_3Sum.cs",
@@ -88,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "No_128_Longest Consecutive Sequence.cs",
               "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_128_Longest Consecutive Sequence.cs",
               "RelativeDocumentMoniker": "Controllers\\No_128_Longest Consecutive Sequence.cs",
@@ -100,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "No_238_Products of Array Except Self.cs",
               "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_238_Products of Array Except Self.cs",
               "RelativeDocumentMoniker": "Controllers\\No_238_Products of Array Except Self.cs",
@@ -112,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Encode and Decode Strings.cs",
               "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\Encode and Decode Strings.cs",
               "RelativeDocumentMoniker": "Controllers\\Encode and Decode Strings.cs",
@@ -124,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "No_347_Top K Frequent Elements.cs",
               "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_347_Top K Frequent Elements.cs",
               "RelativeDocumentMoniker": "Controllers\\No_347_Top K Frequent Elements.cs",
@@ -133,6 +149,18 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T12:04:25.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NO_11_Container With Most Water.cs",
+              "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\NO_11_Container With Most Water.cs",
+              "RelativeDocumentMoniker": "Controllers\\NO_11_Container With Most Water.cs",
+              "ToolTip": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\NO_11_Container With Most Water.cs",
+              "RelativeToolTip": "Controllers\\NO_11_Container With Most Water.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T04:22:32.806Z"
             }
           ]
         }
