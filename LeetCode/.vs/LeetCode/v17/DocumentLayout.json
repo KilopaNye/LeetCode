@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Workspace\\LeetCode\\LeetCode\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|c:\\workspace\\leetcode\\leetcode\\controllers\\no_76_minimum_window_substring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|solutionrelative:controllers\\no_76_minimum_window_substring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|c:\\workspace\\leetcode\\leetcode\\controllers\\no_424_longest repeating character replacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|solutionrelative:controllers\\no_424_longest repeating character replacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "No_76_Minimum_Window_Substring.cs",
+              "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_76_Minimum_Window_Substring.cs",
+              "RelativeDocumentMoniker": "Controllers\\No_76_Minimum_Window_Substring.cs",
+              "ToolTip": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_76_Minimum_Window_Substring.cs",
+              "RelativeToolTip": "Controllers\\No_76_Minimum_Window_Substring.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:24:16.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "No_424_Longest Repeating Character Replacement.cs",
               "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_424_Longest Repeating Character Replacement.cs",
               "RelativeDocumentMoniker": "Controllers\\No_424_Longest Repeating Character Replacement.cs",
               "ToolTip": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_424_Longest Repeating Character Replacement.cs",
               "RelativeToolTip": "Controllers\\No_424_Longest Repeating Character Replacement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-22T08:44:01.803Z",
               "EditorCaption": ""
