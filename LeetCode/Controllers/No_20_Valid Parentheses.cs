@@ -15,26 +15,21 @@ namespace LeetCode.Controllers
                 { ']' , '[' },
                 { '}' , '{' }
             };
-            foreach (char c in s) 
+            foreach (char c in s)
             {
-                if (mapBox.ContainsValue(c)) 
-                { 
-                    stackBox.Push(c);
-                }else if (mapBox.ContainsKey(c))
+                if (mapBox.ContainsValue(c))
                 {
-                    
-
-                    if(stackBox.Peek() == mapBox[c])
-                    {
-                        stackBox.Pop();
-                    }
-                    else
+                    stackBox.Push(c);
+                }
+                else if (mapBox.ContainsKey(c))
+                {
+                    if (stackBox.Count == 0 || stackBox.Pop() != mapBox[c])
                     {
                         return false;
                     }
                 }
             }
-            
+
             return stackBox.Count() == 0;
         }
     }
