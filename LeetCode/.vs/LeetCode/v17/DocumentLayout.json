@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Workspace\\LeetCode\\LeetCode\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|c:\\workspace\\leetcode\\leetcode\\controllers\\no_153_find minimum in rotated sorted array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|solutionrelative:controllers\\no_153_find minimum in rotated sorted array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|c:\\workspace\\leetcode\\leetcode\\controllers\\no_20_valid parentheses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6B6FC61-37C2-4698-9959-E88C9D5DDE58}|LeetCode.csproj|solutionrelative:controllers\\no_20_valid parentheses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "No_153_Find Minimum in Rotated Sorted Array.cs",
+              "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_153_Find Minimum in Rotated Sorted Array.cs",
+              "RelativeDocumentMoniker": "Controllers\\No_153_Find Minimum in Rotated Sorted Array.cs",
+              "ToolTip": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_153_Find Minimum in Rotated Sorted Array.cs",
+              "RelativeToolTip": "Controllers\\No_153_Find Minimum in Rotated Sorted Array.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T10:21:03.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "No_20_Valid Parentheses.cs",
               "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_20_Valid Parentheses.cs",
               "RelativeDocumentMoniker": "Controllers\\No_20_Valid Parentheses.cs",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "No_76_Minimum_Window_Substring.cs",
               "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_76_Minimum_Window_Substring.cs",
               "RelativeDocumentMoniker": "Controllers\\No_76_Minimum_Window_Substring.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "Controllers\\No_76_Minimum_Window_Substring.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T10:24:16.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-06T10:24:16.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "No_424_Longest Repeating Character Replacement.cs",
               "DocumentMoniker": "C:\\Workspace\\LeetCode\\LeetCode\\Controllers\\No_424_Longest Repeating Character Replacement.cs",
               "RelativeDocumentMoniker": "Controllers\\No_424_Longest Repeating Character Replacement.cs",
